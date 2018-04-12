@@ -1,3 +1,3 @@
-# Postdiplomski 2018
+# Postdiplomski
 
 [Poremećaji pokreta](poremecaji_pokreta.md)
