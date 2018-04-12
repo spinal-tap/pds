@@ -108,3 +108,57 @@ klinički znakovi parkinsonizma vidljivi su tek kod 70% ošteć. SN
 - kod atipičnih parkinsonizma JAKO VAŽNO da **_ide vrlo progresivno_**
 
 **3) DRUGE DEGENERATIVNE BOLESTI**
+
+## PARKINSONOVA BOLEST (PD)
+
+progresivna neurodegenerativna bolest zbog propadanja dopaminergičkih neurona pars compacte SN s projekcijama u strijatum
+
+### ETIOLOGIJA
+- smatra se da je uzrok interakcija genskih i okolišnih čimbenika (MPTP je primjer) - poremećaj funkcije mitohondrija- oksidativni stres kojem je SN najviše sklona (bogata ionima  Fe2+)
+- povezuje se i s pesticidima, a pušenje i kava navode se kao zaštita
+
+### GENETIKA
+do sada je pronađeno **_18 lokusa_**
+
+**FAMILIJARNI PARKINSONIZAM** (monogenske forme PD)
+- **AD** - **PARK 1** (PARK-SNCA)- vezan uz hiperprodukcija alfa- sinukleina / **PARK 8** (LRRK 2) / **PARK 17** (PARK-VPS35)
+- **AR** - **PRKN1** / **PARKIN 1** (vezan uz distoniju) - rani početak / **DJ1** / **PINK1** / **ATP13A2**
+
+**Oblici**
+- < 21 god. pojava bolesti = **JUVENILNI OBLIK**
+- 21.-51. god = **RANI** početak PD – UVIJEK pomisliti na Mb. Wilson!!!
+-  |>51.g. – **KASNI** početak
+
+
+### PATOMEHANIZAM
+- oštećenje nigrostrijatalnog sustava: SN - ↓DA --↑ACh u strijatumu, a strijatum natrag inhibira inače SN preko GABA-e, ali i strijatopalidalnog puta
+- patološka pojava Lewyjevih tjelešaca u BG, simpatičkim ganglijima, i spinalnoj moždini - sastoje se od **alfa-sinukleina,** pojavljuje se i u drugim ND bolestima (LBD, MSA…)
+
+#### DIREKTNI PUT
+- kortikostrijatalni input (Glu - preko **– D1 rec.** ) povećava inhibiciju  strijatalnih projekcija (GABA i supst. P) DIREKTNO na GPi / SNr
+- to dovodi do: 
+	- dezinhibicije talamusa, a time i do:
+	- facilitacije korteksa= facilitacija pokreta
+#### INDIREKTNI PUT
+- kortikostrijatalni input (Glu-preko **D2 rec.)** povećava inhibiciju strijatalnih projekcija (sadrže GABA i enkefaline) INDIREKTNO preko GPe i STN (Glu) koji snažno facilitira GPi/SNr
+- to dovodi do: 
+	- inhibicije talamusa, a time i do:
+	-  inhibicije korteksa = inhibicija pokreta
+
+**U NORMALNIM UVJETIMA**
+- SNc šalje obje vrste podražaja (ekscit/D1. i inhib./D2) u striatum
+- inhibicija ide dalje u GPe, a od tuda dalje u STN koji ekscitira GPi/ SNr- od njih se šalje ponovo inhibicija prema VL jezgru talamusa koja ekscitira korteks, a korteks ekscitira ponovo striatum, ali i m. deblo te spinalnu moždinu
+
+**PARKINSONOVA BOLEST**
+- nema nikakvih impulsa iz SNc prema striatumu
+- pa sada striatum **indirektnim putem** snažno inhibira GPe koji sada puno manje inhibira STN koja sada nije toliko inhibirana pa šalje snažnu ekscitaciju u GPi/SNr
+- s druge strane striatum **direktnim putem** manje inhibira GPi/SNr nego inače
+- sve to rezultira snažnijom inhibicijom talamusa koji sada slabo ekscitira korteks, a on manje ekscitira ponovo striatum, m. deblo i spinalnu moždinu
+
+ **RIZIKOFAKTORI** - raste s dobi, + obiteljska anamneza, pesticidi, ozljeda mozga, REM poremećaj spavanja, depresija, konstipacija
+**ZAŠTITNI FAKTORI** - kofein i cigareti
+**ŠIRENJE PATOLOGIJE** - nalikuje na prionsku bolest
+„ulazak patogena“ u mozak
+	1) preko možd. debla (domin. simptomi RBD, disautonomija)
+	2) olfaktorno –limbički (depresija/anksioznost)
+	3) neokortikalni put
