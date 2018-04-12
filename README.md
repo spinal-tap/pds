@@ -1,3 +1,3 @@
 # Postdiplomski 2018
 
-[Poremećaji pokreta](md.html)
+[Poremećaji pokreta](poremecaji_pokreta.md)
