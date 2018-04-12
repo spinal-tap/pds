@@ -62,7 +62,6 @@ obilježava ga tremor, bradikinezija, rigiditet, lezija posturalnih refleksa –
 **PODJELA PARKINSONIZMA:**
 
 1) **PRIMARNI IDIOPATSKI PARKINSONIZAM**
-
 	- sporadična PD
 	- familijarna PD
 
