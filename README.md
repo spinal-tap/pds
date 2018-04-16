@@ -1,3 +1,5 @@
 # Postdiplomski
 
-[Poremećaji pokreta](poremecaji_pokreta.md)
+- [Poremećaji pokreta (HMTL)](md.html)
+- [Poremećaji pokreta (WIP)](poremecaji_pokreta.md)
+- [Opće kompetencije](ok.md)
