@@ -10,11 +10,11 @@
 5. _koja bolest ima povišene jetrene i tremor?_
   - WILSONOVA BOLEST
 6. _na koje receptore djelujemo kod HD?_
-  - **koreja**
-    - tetrabenazin - inhibira sinaptički vezikularni transporter monoamina tip 2 u mozgu (VMAT2)- na taj način monoamini ostaju u sinapsi te se razgrade - on smanjuje koreu, ali može izazvati depresiju, sedaciju, akatiziju, parkinsonizam
-    - sličan učinak ima i rezerpin (inhibitor VMAT1), ali ima i nuspojave (hipotenzija, GI trakt)
-  - **simptomatsko**
-    - SSRI, benzodiazepini, neuroleptici
+ - **koreja**
+  - tetrabenazin - inhibira sinaptički vezikularni transporter monoamina tip 2 u mozgu (VMAT2)- na taj način monoamini ostaju u sinapsi te se razgrade - on smanjuje koreu, ali može izazvati depresiju, sedaciju, akatiziju, parkinsonizam
+  - sličan učinak ima i rezerpin (inhibitor VMAT1), ali ima i nuspojave (hipotenzija, GI trakt)
+ - **simptomatsko**
+  - SSRI, benzodiazepini, neuroleptici
 7. _naglo nastali trzajevi jedne strane tijela?_
   - fokalne vaskularne lezije u kontralateralnom STN – hemibalizam/hemikorea
 8. _koja jezgra je zahvaćena kod hemibalizma?_
