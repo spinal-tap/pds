@@ -28,4 +28,4 @@
     - talamotomija- vrlo rijetko
   - **receptori**:
     - Medications that increase the duration of opening of gamma-aminobutyric acid (GABA)-A receptors are most consistently associated with tremor improvement.
-    - Other mechanisms possibly associated with tremor improvement include antagonism of alpha-2 delta subunits associated with calcium channels, inhibition of carbonic anhydrase, and inhibition of the synaptic vesicle protein 2A.
+    - Other mechanisms possibly associated with tremor improvement include antagonism of alpha-2 delta subunits associated with calcium channels, inhibition of carbonic anhydrase, and inhibition of the synaptic vesicle protein 2A
