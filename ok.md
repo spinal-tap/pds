@@ -51,9 +51,10 @@ Because illness affects not only patients but also their families, physicians mu
 
 _Key competencies_
 1. Establish professional therapeutic relationships with patients and their families
-2. Elicit and synthesize accurate and relevant information, incorporating the perspectives of patients and their families Share health care information and plans with patients and their families
-3. Engage patients and their families in developing plans that reflect the patient’s health care needs and goals
-4. Document and share written and electronic information about the medical encounter to optimize clinical decision-making, patient safety, confidentiality, and privacy
+2. Elicit and synthesize accurate and relevant information, incorporating the perspectives of patients and their families 
+3. Share health care information and plans with patients and their families
+4. Engage patients and their families in developing plans that reflect the patient’s health care needs and goals
+5. Document and share written and electronic information about the medical encounter to optimize clinical decision-making, patient safety, confidentiality, and privacy
 
 ### Collaborator [suradnik]
 
@@ -101,7 +102,7 @@ Physicians seek to improve the quality of both their clinical practice and assoc
 
 _Key competencies_
 1. Respond to an individual patient’s health needs by advocating with the patient within and beyond the clinical environment
-2. Respond to the needs of the communities or populations they serve by advocating with them for system-level change in a socially accountable mannerž
+2. Respond to the needs of the communities or populations they serve by advocating with them for system-level change in a socially accountable manner
 
 ### Scholar [učenik i učitelj]
 
